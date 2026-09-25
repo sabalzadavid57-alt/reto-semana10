@@ -1,0 +1,9 @@
+body{font-family:Arial;margin:0;background:#1a1a1a;}
+header{background:linear-gradient(#2d2d2d,#111);text-align:center;padding:50px;color:white;}
+nav{background:#333;text-align:center;padding:12px;}
+nav a{color:#ccc;text-decoration:none;margin:0 15px;}
+main{display:flex;gap:20px;background:#e8e4d9;padding:30px;}
+section{background:#e8e4d9;flex:1;}
+section h2{color:#222;}
+button{background:#4a5a6a;color:white;border:none;padding:8px 15px;border-radius:4px;}
+footer{background:#2a2a2a;color:white;text-align:center;padding:15px;}
